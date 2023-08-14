@@ -1,0 +1,29 @@
+_repo: The-Cornhill-Magazine-vol-xli-no-243-new-series-September-1916_71391
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-08-11'
+identifiers:
+  gutenberg: '71391'
+language: en
+pgterms:marc905: 20200416095948various
+pgterms:marc906: '1860'
+pgterms:marc907: GB
+production_note: Carol Brown, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bSmith, Elder and Co., $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Cornhill Magazine, (vol. xli, no. 243 new series, September 1916)
+url: http://www.gutenberg.org/ebooks/71391
